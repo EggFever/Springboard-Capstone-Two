@@ -1,10 +1,10 @@
 Field,Value
 Final Model,Gradient Boosting Regressor
-Top Features,"Quantity_per_Cow, Reorder_Intensity, Price_to_ShelfLife_Ratio, Sales_Efficiency, Shelf_Life, Reorder_Quantity, Number_of_Cows, Land_Productivity"
+"Top Features,""Quantity_per_Cow, Reorder_Intensity, Price_to_ShelfLife_Ratio, Sales_Efficiency, Shelf_Life, Reorder_Quantity, Number_of_Cows, Land_Productivity"""
 n_estimators,300
 learning_rate,0.1
 max_depth,4
-CV MAE,2588
-Test MAE,2452.44
-Test R²,0.92
-Reason for Selection,"Best performance, strong generalization, and the most reliable model for identifying key revenue drivers."
+CV MAE,2588,87
+Test MAE,2438.44
+Test R²,0.924
+"Reason for Selection,""Best performance, strong generalization, and the most reliable model for identifying key revenue drivers."""
