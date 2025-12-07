@@ -1,8 +1,5 @@
 # Dairy Goods Sales Revenue Driver Analysis
-Capstone Project 2 – Springboard Data Science Career Track  
-Author: *Your Name*  
-Date: *Month Year*
-
+Capstone Project 2 
 ---
 
 ## 📌 Project Overview
@@ -109,8 +106,8 @@ Final Model: **Gradient Boosting Regressor**
 | Metric | Value |
 |--------|--------|
 | Cross-validated MAE | ~2588 |
-| Test MAE | 2452.44 |
-| Test R² | 0.92 |
+| Test MAE | 2538.40 |
+| Test R² | 0.924|
 | Hyperparameters | n_estimators=300, learning_rate=0.1, max_depth=4 |
 
 Reason for selection:
@@ -159,6 +156,4 @@ Strong demand → allocate stock, expand distribution, reduce waste.
 Optimize Pricing-to-Shelf-Life Ratio to improve turnover and reduce spoilage.
 
 ---
-
-## 📁 Repository Structure
 
